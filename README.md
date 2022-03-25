@@ -2,7 +2,7 @@
 
 [![Bash-5.0.3](https://img.shields.io/badge/Bash-5.0.3-green)](https://www.gnu.org/software/bash/)
 
-Este script foi feito manualmente em BASH, e tem a funcionalidade de escanear páginas `HTML`, na busca por `links` e `hosts ativos`.
+This script was made manually in BASH, and has the functionality to scan `HTML` pages, looking for `links` and `active hosts`.
 
 ## Requisitos
 
