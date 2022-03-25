@@ -6,9 +6,9 @@ Este script foi feito manualmente em BASH, e tem a funcionalidade de escanear pÃ
 
 ## Requisitos
 
-* Bash > = 5.0 +
-* AWK  > = 4.2 +
-* Wget > = 1.20 + 
+* Bash >=  5.0 +
+* AWK  >=  4.2 +
+* Wget >=  1.20 + 
 
 ## Funcionamento
 
