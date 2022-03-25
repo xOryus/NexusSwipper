@@ -1,4 +1,4 @@
-# HTML SWAPPER
+# HTML SWIPPER
 
 [![Bash-5.0.3](https://img.shields.io/badge/Bash-5.0.3-green)](https://www.gnu.org/software/bash/)
 
