@@ -6,9 +6,9 @@ Este script tem a funcionalidade de escanear páginas html, na busca por links e
 
 ## Requisitos
 
-* Bash >= 5+
-* AWK  >= 4.2+
-* Wget >= 1.20+
+* Bash >= 5.0 +
+* AWK  >= 4.2 +
+* Wget >= 1.20 + 
 
 ## Funcionamento
 
