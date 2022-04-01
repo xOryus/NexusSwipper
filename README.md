@@ -13,9 +13,11 @@ This script was made manually in BASH, and has the functionality to scan `HTML` 
 ## Funcionamento
 
 ```bash
+ chmod +x NexusSwipper.sh
 ./NexusSwipper.sh www.google.com
 ```
 ou
 ```bash
+chmod +x NexusSwipper.sh
 ./NexusSwipper.sh -f index.html
 ```
